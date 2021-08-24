@@ -7,4 +7,4 @@ This theme is highly inspired by the following themes:
 
 ---
 
-![Screenshot](https://raw.githubusercontent.com/paimanbandi/lambda-p-zsh-theme/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/paimanbandi/lambda-p/master/screenshot.png)
